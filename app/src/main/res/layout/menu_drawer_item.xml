@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:layout_marginBottom="@dimen/_20sdp"
+    >
+    <!-- Icon -->
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="@dimen/_20sdp"
+        android:layout_height="match_parent"
+        android:src="@drawable/help"
+        />
+    <Space
+        android:layout_width="@dimen/_10sdp"
+        android:layout_height="wrap_content"
+        />
+    <!-- text -->
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/my_orders"
+        android:fontFamily="@font/sofiapro"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_13ssp"
+        android:textStyle="bold"
+        />
+</LinearLayout>

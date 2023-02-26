@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Alexon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro_next">Next</string>
+    <string name="browse">Browse your  menu and order directly</string>
+    <string name="disscount">Our app can send you everywhere, even space. For only $2.99 per month</string>
+    <string name="even">Even to space with us! Together</string>
+    <string name="pickup">Pickup delivery at your door</string>
+    <string name="e_mail">E-mail</string>
+    <string name="your_email_or_phone">Your email or phone</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="search_products">Search Products</string>
+    <string name="phone">phones</string>
+    <string name="laptop">laptops</string>
+    <string name="description">Brown the beef better. Lean ground beef – I like to use 85% lean angus. Garlic – use fresh chopped. Spices – chili powder, cumin, onion powder.</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="my_orders">My Orders</string>
+    <string name="checkout">Checkout</string>
+    <string name="total">Total</string>
+    <string name="shipping">Shipping</string>
+    <string name="sub_total">Sub total</string>
+    <string name="empty_cart">Empty Cart</string>
+    <string name="log_out">Log out</string>
+    <string name="server_id">132086215033-hasjma1tdi9ld2crr69ikueckg0e9ej6.apps.googleusercontent.com</string>
+    <string name="sign_in_with">Sign in with</string>
+    <string name="facebook_app_id">769175144550149</string>
+    <string name="facebook_login_protocol_schema">fb769175144550149</string>
+    <string name="facebook_client_token">56789</string>
+</resources>
